@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ApprovalTests",
+        "repositoryURL": "https://github.com/cokaido/AcceptanceTestsSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "eef603ddfc785e687b897a47c94b0b5b49bd5452",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
