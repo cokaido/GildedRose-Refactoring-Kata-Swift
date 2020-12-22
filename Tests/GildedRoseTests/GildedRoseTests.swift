@@ -1,5 +1,6 @@
 @testable import GildedRose
 import XCTest
+import ApprovalTests
 
 class GildedRoseTests: XCTestCase {
 
