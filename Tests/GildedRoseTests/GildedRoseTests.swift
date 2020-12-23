@@ -5,7 +5,7 @@ import ApprovalTests
 class GildedRoseTests: XCTestCase {
 
     private func doUpdateQuality(_ name: String, _ sellIn: Int, _ quality: Int) -> String {
-        let items = [Item(name: name, sellIn: sellIn, quality: quality)]
+        let items = [Item.createItem(name: name, sellIn: sellIn, quality: quality)]
         let app = GildedRose(items: items);
         
         app.updateQuality();
